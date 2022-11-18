@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+#root,
+html,
+body {
+  height: 100vh;
+  color: white;
+}
+
+body {
+  margin: 0;
+  background-color: #121212;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Open Sans", sans-serif;
+}
